@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+#container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #fafaf9;
+    font-family: 'Sora', sans-serif;
+}
+
+#box01{
+    background-color: #ffffff;
+   /* border: 1px solid black;*/
+    border-radius: 14px;
+    box-shadow: opx 30px 100px 0px rgba(17, 23, 41, 0.05);
+    width: 368px;
+    height: 380px;
+    margin-top: 164px;
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;*/
+    
+}
+
+#box02{
+    padding: 16px;
+    padding-bottom: 0px;
+}
+#design{
+    width: 50px;
+    height: 18px;
+    color: #944ee4;
+    background-color: #e6d6fc;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-top: 6px;
+    padding-left: 16px;
+    border-radius: 14px;
+  
+    font-size: 10px;
+    font-weight: 600;
+}
+
+#box02 h2{
+    color: #20293a;
+    padding: 0px;
+    border: 0px;
+    margin-top: 0px;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+
+
+#box02 p{
+    color: #747986;
+    padding: 0px;
+    border: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: 300;
+    padding-right: 10px;
+}
+
+#imgC{
+    border-radius: 16px;
+    width: 336px;
+    height: 152px;
+}
+
+
+#annie {
+    border-top: 1px solid #e5eaf0;
+    padding-left: 16px;
+    color: #6d7380;
+    font-size: 12px;
+    font-weight: 400;
+    padding-top: 10px;
+  
+}
